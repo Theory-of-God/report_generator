@@ -1,0 +1,2 @@
+# report_generator
+利用其他模块生成的json数据生成md和pdf类型的报告
